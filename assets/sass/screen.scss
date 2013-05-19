@@ -1,0 +1,29 @@
+/* Waigs default template */
+
+//RESET
+@import "compass/reset";
+
+//PARTIALS
+@import "partials/mixins";
+
+@import "partials/variables";
+
+@import "partials/layout";
+
+@import "partials/content";
+
+@import "partials/header";
+
+@import "partials/headlines";
+
+@import "partials/main-nav";
+
+@import "partials/secondary-nav";
+
+@import "partials/sidebar";
+
+@import "partials/footer";
+
+@import "partials/print";
+
+
